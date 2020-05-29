@@ -1,2 +1,2 @@
-# jsjedi
+# Repositorio Git Estudo Javascript
 formacao javascript
